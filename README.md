@@ -1,4 +1,4 @@
-![TwitchCoders](https://user-images.githubusercontent.com/624760/38853689-ecef5316-4215-11e8-9744-42329ec951f6.png)
+![TwitchCoders](https://user-images.githubusercontent.com/773633/38883696-9f58e3d8-4265-11e8-9d86-3fc1aec84bdb.jpg)
 
 
 # TwitchCoders
@@ -11,11 +11,11 @@ If you stream code, please add yourself below with your **Twitch** `name` and li
 
 | Name | Focus | Github | When |
 | :--- | :--- | :--- | :--- |
-| [EddieJaoude](http://twitch.tv/eddiejaoude) | Open Source & [DashboardHub](http://github.com/DashboardHub/PipelineDashboard) | [EddieJaoude](http://github.com/eddiejaoude) | Week days 530pm BST |
-| [Venzra](http://twitch.tv/venzra) | Open Soure & Venzra | [Andrew-Cunliffe](https://github.com/Andrew-Cunliffe) | Week days 9pm BST week days |
-| [ThisModernDay](http://twitch.tv/thismodernday) | Open Source & Discord bots | [BrandonLeffew](https://github.com/BrandonLeffew) | Sunday 2-6pm EST |
-| [Evbrink](http://twitch.tv/evbrink) | Open Source & Learning to code | [EvelinaBrink](https://github.com/Evelinabrink) | Late CET |
-| [Suceec](http://twitch.tv/suceec) | Open Source & Learning to code | [SusieCee](https://github.com/susiecee) | ??? |
+| [EddieJaoude](https://twitch.tv/eddiejaoude) | Open Source & [DashboardHub](https://github.com/DashboardHub/PipelineDashboard) | [EddieJaoude](https://github.com/eddiejaoude) | Week days 530pm BST |
+| [Venzra](https://twitch.tv/venzra) | Open Soure & Venzra | [Andrew-Cunliffe](https://github.com/Andrew-Cunliffe) | Week days 9pm BST week days |
+| [ThisModernDay](https://twitch.tv/thismodernday) | Open Source & Discord bots | [BrandonLeffew](https://github.com/BrandonLeffew) | Sunday 2-6pm EST |
+| [Evbrink](https://twitch.tv/evbrink) | Open Source & Learning to code | [EvelinaBrink](https://github.com/Evelinabrink) | Late CET |
+| [Suceec](https://twitch.tv/suceec) | Open Source & Learning to code | [SusieCee](https://github.com/susiecee) | ??? |
 
 ## Ideas / Suggestions / Things you would like to see streamed
 
