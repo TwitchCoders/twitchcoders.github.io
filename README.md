@@ -16,6 +16,9 @@ If you stream code, please add yourself below with your **Twitch** `name` and li
 | [ThisModernDay](https://twitch.tv/thismodernday) | Open Source & Discord bots | [BrandonLeffew](https://github.com/BrandonLeffew) | Sunday 2-6pm EST |
 | [Evbrink](https://twitch.tv/evbrink) | Open Source & Learning to code | [EvelinaBrink](https://github.com/Evelinabrink) | Late CET |
 | [Suceec](https://twitch.tv/suceec) | Open Source & Learning to code | [SusieCee](https://github.com/susiecee) | ??? |
+| [daroou2](https://www.twitch.tv/daroou2) |  programming languages, compilers, C++, F#, Rust | [amaiorano](https://github.com/amaiorano) | Monday and Wednesday nights at 9 pm EST |
+| [noopkat](https://www.twitch.tv/noopkat) | front-end developer by trade, and open source contributor/enthusiast in my spare time. | [noopkat](https://github.com/noopkat) | Sundays, approximately 11am EST |
+| [skoufcodes](https://www.twitch.tv/skoufcodes) | Code | [niksko](https://github.com/niksko) | 9am AEST on Saturday and Sunday mornings; 8pm AEST some weekdays | 
 
 ## Ideas / Suggestions / Things you would like to see streamed
 
