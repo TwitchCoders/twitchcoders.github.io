@@ -9,12 +9,12 @@ Community information and collaboration.
 
 If you stream code, please add yourself below with your **Twitch** `name` and link to your **Twitch** account, with your main area of focus.
 
-| Name | Focus | Github |
-| :--- | :--- | :--- |
-| [EddieJaoude](http://twitch.tv/eddiejaoude) | Open Source code & [DashboardHub](http://github.com/DashboardHub/PipelineDashboard) | [EddieJaoude](http://github.com/eddiejaoude)
-| [Venzra](http://twitch.tv/venzra) | Open Soure code & Venzra | [Andrew-Cunliffe](https://github.com/Andrew-Cunliffe) |
-| [ThisModernDay](http://twitch.tv/thismodernday) | Open Source code & Discord bots | [BrandonLeffew](https://github.com/BrandonLeffew) |
-| [Evbrink](http://twitch.tv/evbrink) | Learning to code | [Evelinabrink](https://github.com/Evelinabrink) |
+| Name | Focus | Github | When |
+| :--- | :--- | :--- | :--- |
+| [EddieJaoude](http://twitch.tv/eddiejaoude) | Open Source code & [DashboardHub](http://github.com/DashboardHub/PipelineDashboard) | [EddieJaoude](http://github.com/eddiejaoude) | Week days 530pm BST |
+| [Venzra](http://twitch.tv/venzra) | Open Soure code & Venzra | [Andrew-Cunliffe](https://github.com/Andrew-Cunliffe) | Week days 9pm BST week days |
+| [ThisModernDay](http://twitch.tv/thismodernday) | Open Source code & Discord bots | [BrandonLeffew](https://github.com/BrandonLeffew) | Sunday 2-6pm EST |
+| [Evbrink](http://twitch.tv/evbrink) | Learning to code | [Evelinabrink](https://github.com/Evelinabrink) | Late |
 
 ## Ideas / Suggestions / Things you would like to see streamed
 
