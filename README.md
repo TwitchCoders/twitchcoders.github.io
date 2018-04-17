@@ -1,3 +1,6 @@
+![TwitchCoders](https://user-images.githubusercontent.com/624760/38853689-ecef5316-4215-11e8-9744-42329ec951f6.png)
+
+
 # TwitchCoders
 
 Community information and collaboration.
